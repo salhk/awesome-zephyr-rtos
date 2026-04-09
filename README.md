@@ -155,12 +155,13 @@
 - [PlatformIO](https://docs.zephyrproject.org/latest/guides/platformio/index.html)
 - [VS Code importer](https://github.com/smrtos/Zephyr2VSC)
 - [Zephyrus](https://github.com/tuScale/vscode-zephyrus)
-- [Workbench for Zephyr](https://z-workbench.com/) - All-in-one VS Code extension for Zephyr development.
+- [Workbench for Zephyr](https://z-workbench.com/) - All-in-one VS Code extension for Zephyr development. 
 
 #### Other Editors & IDEs
 
 - [Eclipse](https://github.com/zephyrproject-rtos/eclipse-plugin)
 - [CMake Zephyr helpers](https://github.com/thirdpin/Zephyr-CMake-Helpers) - Enhance CMake automation for use with VS Code.
+- [AppBlocks](https://appblocks.io/) - No-Code in browser development environment that supports developing Zephyr applications
 
 ### Flash, Debug & Test
 
